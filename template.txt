@@ -1,0 +1,7 @@
+We're excited to have {{ speaker_name }}, {{ speaker_title }}, join us for the Tech for Impact Summit 2025! 
+
+Join {{ speaker_name }} in this session: {{ topic }}
+
+📅 October 7 (Tue) at Toranomon Hills Forum, Tokyo
+
+🎟️ Join the conversation: https://tech4impactsummit.com/tickets
