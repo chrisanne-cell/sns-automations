@@ -95,4 +95,4 @@ Push to the branch (git push origin feature-name)
 Open a Pull Request
 
 📄 License
-MIT License — free to use and modify.
+MIT License — free to use and modify.# ja-sns-automations
